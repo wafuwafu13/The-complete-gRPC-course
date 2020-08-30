@@ -1,0 +1,62 @@
+{
+  "id": "b5ed3cac-919d-4329-a118-ef7a60829ea8",
+  "brand": "Apple",
+  "name": "Macbook Air",
+  "cpu": {
+    "brand": "AMD",
+    "name": "Ryzen 5 PRO 3500U",
+    "number_cores": 6,
+    "number_threads": 11,
+    "min_ghz": 2.939073970734114,
+    "max_ghz": 4.708081446817235
+  },
+  "ram": {
+    "value": "28",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "AMD",
+      "name": "RX 590",
+      "min_ghz": 1.101278450724291,
+      "max_ghz": 1.9226807984873067,
+      "memory": {
+        "value": "3",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "346",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "3",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 15.484566,
+    "resolution": {
+      "width": 6163,
+      "height": 3467
+    },
+    "panel": "OLED",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "QWERTZ",
+    "backlit": false
+  },
+  "weight_kg": 1.4139047666454,
+  "price_usd": 2271.3438399079578,
+  "release_year": 2019,
+  "updated_at": "2020-08-30T06:50:50.470067Z"
+}
